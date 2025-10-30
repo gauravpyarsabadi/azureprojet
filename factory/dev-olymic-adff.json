@@ -1,0 +1,9 @@
+{
+	"name": "dev-olymic-adff",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81293dbc-0f3c-4bfa-bfce-79847862fac3",
+		"tenantId": "f3d4607e-f715-4b14-982a-5bb9cab05a52"
+	}
+}
